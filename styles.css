@@ -35,7 +35,9 @@ label {
     margin: 0.5rem 0;
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
   margin: 10px 0 0 0;
   width: 100%;
 }
